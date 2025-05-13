@@ -1,0 +1,10 @@
+whois
+requests
+beautifulsoup4
+python-nmap
+ipwhois
+customtkinter
+argparse
+tk
+threading
+dnspython
